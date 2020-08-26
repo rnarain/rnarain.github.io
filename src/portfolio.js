@@ -161,11 +161,13 @@ const workExperiences = {
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
 
-const openSource = {
-  githubConvertedToken: "77cf5239c0c89964cd26979fbf8901762749981c",
-  githubUserName: "rnarain", // Change to your github username to view your profile in Contact Section.
-  showGithubProfile :"true" // Set true or false to show Contact profile using Github, defaults to false 
-};
+// const openSource = {
+//   githubConvertedToken: "xxxxx",
+//   githubUserName: "rnarain", // Change to your github username to view your profile in Contact Section.
+//   showGithubProfile :"true" // Set true or false to show Contact profile using Github, defaults to false 
+// };
+
+const githubProjects= {"data":{"user":{"pinnedItems":{"totalCount":3,"edges":[{"node":{"name":"amazon","description":"amazon replica using mern stack. Key features: Multiple database- MySQL & MongoDB ,Redis Cache, Kafka, Passport JWT Authentication.","forkCount":0,"stargazers":{"totalCount":2,"__typename":"StargazerConnection"},"url":"https://github.com/rnarain/amazon","id":"MDEwOlJlcG9zaXRvcnkyNTUyNTIzMzc=","diskUsage":6044,"primaryLanguage":{"name":"JavaScript","color":"#f1e05a","__typename":"Language"},"__typename":"Repository"},"__typename":"PinnableItemEdge"},{"node":{"name":"handshake-replica-with-kafka","description":"handshake-replica with node.js & Mongo DB for backend, react.js for frontend and additional features like redux,jwt, passport,kafka.","forkCount":0,"stargazers":{"totalCount":0,"__typename":"StargazerConnection"},"url":"https://github.com/rnarain/handshake-replica-with-kafka","id":"MDEwOlJlcG9zaXRvcnkyNDg4NzgwMTM=","diskUsage":6538,"primaryLanguage":{"name":"JavaScript","color":"#f1e05a","__typename":"Language"},"__typename":"Repository"},"__typename":"PinnableItemEdge"},{"node":{"name":"Produce-Tracker","description":"Permissioned blockchain to build a transparent grocery delivery system. Technologies used : IBM Blockchain , smart contracts , React, Node.js, Kubernetes","forkCount":0,"stargazers":{"totalCount":0,"__typename":"StargazerConnection"},"url":"https://github.com/rnarain/Produce-Tracker","id":"MDEwOlJlcG9zaXRvcnkyNTAzOTA1NTM=","diskUsage":6296,"primaryLanguage":{"name":"JavaScript","color":"#f1e05a","__typename":"Language"},"__typename":"Repository"},"__typename":"PinnableItemEdge"}],"__typename":"PinnableItemConnection"},"__typename":"User"}},"loading":false,"networkStatus":7,"stale":false}
 
 
 // Some Big Projects You have worked with your company
@@ -293,4 +295,4 @@ const education=[
     description : "Course work : Operating Systems, Data Structures & Algorithms , Object Oriented Programming"
   }
 ];
-export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails , education};
+export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences,githubProjects , bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails , education};
