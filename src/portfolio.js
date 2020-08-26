@@ -33,7 +33,7 @@ const skillsSection = {
   skills: [
     emoji("⚡ I strive to write highly scalable and modular code incorportaing all Software design principles"),
     emoji("⚡ Proven track record of delivering feature releases while meeting deadlines"),
-    emoji("⚡ Creative thinker always looking to simplify things form myself and my team")
+    emoji("⚡ Creative thinker always looking to simplify things for myself and my team")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
