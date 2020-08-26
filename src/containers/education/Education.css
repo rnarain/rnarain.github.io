@@ -1,0 +1,11 @@
+.education-cards-div {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+    gap: 1rem 1rem;
+}
+
+.education-heading {
+    font-size: 56px;
+    font-weight: 400;
+}
+
