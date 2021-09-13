@@ -9,8 +9,8 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Narain",
   title: "Hey there! I'm Narain",
-  subTitle: emoji("A passionate Software Engineer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / .Net / Java and some other cool libraries and frameworks."),
-  resumeLink: "https://drive.google.com/file/d/1-xzoBEzkd48ywRyFl8ysIjCPUPcKv1UF/view"
+  subTitle: emoji("A passionate Software Engineer having an experience of working with large scale softwares and building Web applications with Java / C# / JavaScript / Reactjs / Nodejs and some other cool libraries & frameworks."),
+  resumeLink: "https://drive.google.com/file/d/1JSHB6nlbt6FYQFExvDqKZOWi_F_6kheQ/view"
 };
 
 // Your Social Media Link
@@ -122,10 +122,22 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Backend Software Developer",  
+      company: "IBM",
+      companylogo: require("./assets/images/ibm-logo.svg"),
+      date: "May 2021 – Present",
+      desc: "Working as an intern in Cloud and Cognitive Software team",
+      descBullets: [
+        "Developed an end-to-end UI test automation framework using Playwright for IBM cloud Saas offering",
+        "Configured Jenkins CI/CD pipeline to run the framework as docker build-slave and saved test automation results as Jenkins artifacts",
+        "Used python scripting for internal tooling and provided visualization using elastic search and Kibana"
+      ]
+    },
+    {
       role: "Graduate Research Assistant",  
       company: "San Jose State Universoty",
       companylogo: require("./assets/images/sjsu-logo.png"),
-      date: "June 2020 – Present",
+      date: "May 2020 – April 2021",
       desc: "Working as a full-stack engineer for a professor in Computer Engineering Department at SJSU",
       descBullets: [
         "Integrated PayPal Payments API including payouts, membership, and refund",
@@ -145,16 +157,16 @@ const workExperiences = {
         "Developed various microservices for a CMS"
       ]
     },
-    {
-      role: "Project Trainee",  
-      company: "Gateway",
-      companylogo: require("./assets/images/gateway.png"),
-      date: "Jan 2018 – Aug 2018",
-      desc: "Trained in full-stack development in Html, CSS, Bootstrap, .NET MVC, Angular 4 & SQL.",
-      descBullets: [
-        "Worked with other interns on a project to collaborate students with potential universities using custom point-matching algorithm written as SQL stored procedure",
-      ]
-    },
+    // {
+    //   role: "Project Trainee",  
+    //   company: "Gateway",
+    //   companylogo: require("./assets/images/gateway.png"),
+    //   date: "Jan 2018 – Aug 2018",
+    //   desc: "Trained in full-stack development in Html, CSS, Bootstrap, .NET MVC, Angular 4 & SQL.",
+    //   descBullets: [
+    //     "Worked with other interns on a project to collaborate students with potential universities using custom point-matching algorithm written as SQL stored procedure",
+    //   ]
+    // },
   ]
 };
 
@@ -286,7 +298,7 @@ const education=[
     degree : "Masters of Science, Computer Software Engineering",
     year : "2020-Present",
     college : "San Jose State University",
-    description : "Course work : Enterprise Distributed Systems, Enterprise Software Platforms, Web UI Technologies , Enterprise Application Development, Software Design Principles , Data Engineering & Web Mining "
+    description : "Course work : Enterprise Distributed Systems, Enterprise Software Platforms, Web UI Technologies , Enterprise Application Development, Software Design Principles "
   },
   {
     degree : "Bachelors of Technology, Computer Engineering",
