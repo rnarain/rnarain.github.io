@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af69bc9689da9ff99050f0945619bb3b",
+    "revision": "3026c457d68d57617905f800d08a7630",
     "url": "/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/3.f9898e9a.chunk.css"
   },
   {
-    "revision": "7b384e22c10104a7c707",
+    "revision": "28cdfe11ed6b2c34ddd6",
     "url": "/static/css/4.f008a6a9.chunk.css"
   },
   {
-    "revision": "04c975e91cb18be9653d",
-    "url": "/static/css/main.3a8e27ab.chunk.css"
+    "revision": "352e4b077fa028d1408a",
+    "url": "/static/css/main.5b13b272.chunk.css"
   },
   {
     "revision": "57acf497f6450b42697c",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/3.b4c5826b.chunk.js"
   },
   {
-    "revision": "7b384e22c10104a7c707",
-    "url": "/static/js/4.07a89b1e.chunk.js"
+    "revision": "28cdfe11ed6b2c34ddd6",
+    "url": "/static/js/4.619a1435.chunk.js"
   },
   {
-    "revision": "04c975e91cb18be9653d",
-    "url": "/static/js/main.d95db91a.chunk.js"
+    "revision": "352e4b077fa028d1408a",
+    "url": "/static/js/main.a8836970.chunk.js"
   },
   {
-    "revision": "cbbdf48d6b24228e9270",
-    "url": "/static/js/runtime-main.4ee70627.js"
+    "revision": "9d0c71312287e0894211",
+    "url": "/static/js/runtime-main.d9fd552b.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -48,16 +48,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "32a132fb57fc1e10b3f1a68ce9bb004a",
-    "url": "/static/media/gateway.32a132fb.png"
-  },
-  {
     "revision": "6167841eafc43ea18462bba6db748504",
     "url": "/static/media/hi-img.6167841e.png"
   },
   {
     "revision": "f030073392aee994f3b88320fff2ffc3",
     "url": "/static/media/hypeteq.f0300733.png"
+  },
+  {
+    "revision": "b1db1ae501d522a1a4b49613fe07c9f1",
+    "url": "/static/media/ibm-logo.b1db1ae5.svg"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",

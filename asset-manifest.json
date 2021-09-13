@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a8e27ab.chunk.css",
-    "main.js": "/static/js/main.d95db91a.chunk.js",
-    "main.js.map": "/static/js/main.d95db91a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4ee70627.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4ee70627.js.map",
+    "main.css": "/static/css/main.5b13b272.chunk.css",
+    "main.js": "/static/js/main.a8836970.chunk.js",
+    "main.js.map": "/static/js/main.a8836970.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d9fd552b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d9fd552b.js.map",
     "static/js/2.9f3efe5b.chunk.js": "/static/js/2.9f3efe5b.chunk.js",
     "static/js/2.9f3efe5b.chunk.js.map": "/static/js/2.9f3efe5b.chunk.js.map",
     "static/css/3.f9898e9a.chunk.css": "/static/css/3.f9898e9a.chunk.css",
     "static/js/3.b4c5826b.chunk.js": "/static/js/3.b4c5826b.chunk.js",
     "static/js/3.b4c5826b.chunk.js.map": "/static/js/3.b4c5826b.chunk.js.map",
     "static/css/4.f008a6a9.chunk.css": "/static/css/4.f008a6a9.chunk.css",
-    "static/js/4.07a89b1e.chunk.js": "/static/js/4.07a89b1e.chunk.js",
-    "static/js/4.07a89b1e.chunk.js.map": "/static/js/4.07a89b1e.chunk.js.map",
+    "static/js/4.619a1435.chunk.js": "/static/js/4.619a1435.chunk.js",
+    "static/js/4.619a1435.chunk.js.map": "/static/js/4.619a1435.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.669b991bfaa98c210f0c02db56022f11.js": "/precache-manifest.669b991bfaa98c210f0c02db56022f11.js",
+    "precache-manifest.087515f17c33c76c72f1955ade645437.js": "/precache-manifest.087515f17c33c76c72f1955ade645437.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.f9898e9a.chunk.css.map": "/static/css/3.f9898e9a.chunk.css.map",
     "static/css/4.f008a6a9.chunk.css.map": "/static/css/4.f008a6a9.chunk.css.map",
-    "static/css/main.3a8e27ab.chunk.css.map": "/static/css/main.3a8e27ab.chunk.css.map",
+    "static/css/main.5b13b272.chunk.css.map": "/static/css/main.5b13b272.chunk.css.map",
     "static/js/2.9f3efe5b.chunk.js.LICENSE.txt": "/static/js/2.9f3efe5b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/gateway.png": "/static/media/gateway.32a132fb.png",
     "static/media/Greeting.css": "/static/media/hi-img.6167841e.png",
     "static/media/hypeteq.png": "/static/media/hypeteq.f0300733.png",
+    "static/media/ibm-logo.svg": "/static/media/ibm-logo.b1db1ae5.svg",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/mcsa.png": "/static/media/mcsa.7d885cb3.png",
     "static/media/mcsd.png": "/static/media/mcsd.9b84ed55.png",
@@ -35,9 +35,9 @@
     "static/media/well-done-img.png": "/static/media/well-done-img.ee6c5207.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ee70627.js",
+    "static/js/runtime-main.d9fd552b.js",
     "static/js/2.9f3efe5b.chunk.js",
-    "static/css/main.3a8e27ab.chunk.css",
-    "static/js/main.d95db91a.chunk.js"
+    "static/css/main.5b13b272.chunk.css",
+    "static/js/main.a8836970.chunk.js"
   ]
 }
